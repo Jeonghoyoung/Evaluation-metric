@@ -1,0 +1,15 @@
+{
+  "LP": {
+    "LP_PATH": "../data/parameter/params.tsv"
+  },
+  "DATA": {
+    "INPUT_PATH": "../data/input/20220120",
+    "OUTPUT_PATH": "../data/output"
+  },
+  "EXTENSION": {
+    "INPUT_EXTENSION": "xlsx"
+  },
+  "KO_CHARACTER": {
+    "KO_CHARACTER": "F"
+  }
+}
